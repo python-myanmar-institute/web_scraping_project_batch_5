@@ -79,7 +79,7 @@ pip install -r requirements.txt
 Run the Python script:
 
 ```bash
-python scraper.py
+python unique_scraper.py
 ```
 
 The scraper starts from the mobile phone collection page:
